@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "/home/chen/Desktop/yolo-V8/examples/YOLOv8-CPP-Inference",
+    "files.associations": {
+        "*.py": "python",
+        "*.cu": "cuda-cpp",
+        "*.txt": "plaintext",
+        "functional": "cpp"
+    }
+}
