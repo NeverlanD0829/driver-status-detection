@@ -1,0 +1,12 @@
+train: /home/chen/Downloads/Modified distracted driver dataset.v2-augmented-dataset.yolov8-obb/train/images
+val: /home/chen/Downloads/Modified distracted driver dataset.v2-augmented-dataset.yolov8-obb/valid/images
+test: /home/chen/Downloads/Modified distracted driver dataset.v2-augmented-dataset.yolov8-obb/test/images
+
+names: 
+  0: c0 - Safe Driving
+  1: c2 - Talking on the phone
+  2: c4 - Drinking
+  3: d0 - Eyes Closed
+  4: d1 - Yawning
+  5: d2 - Nodding Off
+  6: looking away
